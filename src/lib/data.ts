@@ -5,5 +5,8 @@ export function getPersosFromDB() {
 }
 
 export function getPersoFromDB(id: number) {
-    return disney[id - 1];
+    console.log(disney);
+    const found = disney.find((element: any) => element._id === id);
+    console.log(found);
+    return found;
 }
