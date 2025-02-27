@@ -4,10 +4,19 @@
 
 	// LA VARIABLE DANS LAQUELLE JE VAIS STOCKER L'OBJET
 	let disney = data.disney;
-	console.log(disney);
+
+	function validate(id: number) {
+		const checkedCharacter = disney.find((element) => element._id === id);
+		const valid = checkedCharacter.valid ? true : false;
+		console.log(valid);
+	}
 </script>
 
 <h1>Quiz</h1>
+<img src={disney.find((element) => element.valid === true).imageUrl} />
+{#each disney as character}
+	<button onclick={() => validate(character._id)}>{character.name}</button>
+{/each}
 
 <style>
 	:global(body) {
@@ -24,5 +33,10 @@
 		font-family: 'New Walt Disney Font', sans-serif;
 		text-align: center;
 		font-size: 5rem;
+	}
+
+	img {
+		width: 30vh;
+		height: 30vh;
 	}
 </style>
