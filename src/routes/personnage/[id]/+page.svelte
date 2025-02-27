@@ -3,8 +3,8 @@
 	import { perso } from '$lib/personnage.svelte.js';
 	const { data } = $props();
 	console.log(data);
-	const { name, _id, imageUrl } = $derived(data.disney);
+	const { name, _id, imageUrl, films, production } = $derived(data.disney);
 	const found = $derived(perso.ids.includes(_id));
 </script>
 
-<Personnage {name} {_id} src={imageUrl} />
+<Personnage {name} {_id} src={imageUrl} {films} {production} />

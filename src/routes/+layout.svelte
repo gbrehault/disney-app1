@@ -57,11 +57,6 @@
 		text-decoration: none;
 		text-transform: uppercase;
 	}
-	a .m {
-		border-bottom:
-			1px,
-			solid white;
-	}
 	/* CSS HEADER  */
 
 	header {
@@ -166,5 +161,10 @@
 		padding-top: 10px;
 		padding-bottom: 10px;
 		font-weight: 700;
+	}
+	.arrow {
+		color: red; /* Change la couleur ici */
+		width: 50px;
+		height: 50px;
 	}
 </style>

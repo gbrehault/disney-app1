@@ -13,7 +13,12 @@
 	<div class="perso-galery">
 		<ul>
 			<a href="/quiz">
-				<button class="play">LANCER LE QUId 🧠</button>
+				<button class="play">LANCER LE QUIZ 🧠</button>
+			</a>
+		</ul>
+		<ul>
+			<a href="/liste">
+				<button class="play">ENTRAINE TOI 🧠</button>
 			</a>
 		</ul>
 	</div>
@@ -27,7 +32,7 @@
 		background-color: rgb(161, 200, 246);
 		background-position: center;
 		background-repeat: no-repeat;
-		background-side: cover;
+		background-size: cover;
 	}
 	.containeur {
 		height: 60vh;
@@ -68,11 +73,17 @@
 	ul {
 		margin-top: 100px;
 		padding: 0;
-		display: flex;
+		display: block;
 		justify-content: center;
 		align-items: center;
 	}
 	a {
 		text-decoration: none;
+	}
+	.perso-galery {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: 2rem;
 	}
 </style>

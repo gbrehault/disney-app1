@@ -7,7 +7,7 @@
 	console.log(disney);
 </script>
 
-<h1>DisneyQuiz</h1>
+<h1>Disney Quiz</h1>
 
 <div class="perso-galery">
 	<ul>
@@ -41,10 +41,10 @@
 
 	h5 {
 		font-family: 'Montserrat', sans-serif;
-		font-weight: 600;
+		font-weight: 300;
 		align-items: center;
 		justify-content: center;
-		font-size: 0.8rem;
+		font-size: 1rem;
 	}
 	a {
 		font-family: 'Montserrat', sans-serif;
@@ -67,7 +67,7 @@
 	img {
 		width: 15rem;
 		height: 15rem;
-		border-radius: 25px;
+		border-radius: 20px;
 	}
 
 	/* CSS PERSO IMG ET TEXTE */
@@ -79,5 +79,11 @@
 		flex-direction: column;
 		box-shadow: 2px 2px 5px #11111141;
 		border-radius: 25px;
+		background-color: white;
+		margin: 20px;
+		padding: 20px;
+	}
+	.perso-galery {
+		padding-bottom: 100px;
 	}
 </style>

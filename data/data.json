@@ -1,0 +1,536 @@
+[
+    {
+        "_id": 1,
+        "name": "Raiponce",
+        "films": [
+            "Raiponce",
+            "Raiponce : Avant l'histoire"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://i.ytimg.com/vi/kDehTEEoFnE/maxresdefault.jpg",
+        "releaseDate": "2010-11-24"
+    },
+    {
+        "_id": 2,
+        "name": "Ariel",
+        "films": [
+            "La Petite Sirène",
+            "La Petite Sirène 2 : Retour à l'océan"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://resize.elle.fr/article/var/plain_site/storage/images/loisirs/cinema/news/la-petite-sirene-decouvrez-qui-incarnera-ariel-dans-le-film-disney-3797999/90637232-1-fre-FR/La-Petite-Sirene-decouvrez-qui-incarnera-Ariel-dans-le-film-Disney.jpg",
+        "releaseDate": "1989-11-17"
+    },
+    {
+        "_id": 3,
+        "name": "Mérida",
+        "films": [
+            "Rebelle"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/gallery_princess_merida_7_a57a2d7c_326a12f1.jpeg?region=3%2C0%2C2175%2C1223",
+        "releaseDate": "2012-06-22"
+    },
+    {
+        "_id": 4,
+        "name": "Belle",
+        "films": [
+            "La Belle et la Bête",
+            "La Belle et la Bête 2"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR80FxYEB5nMRRw-XZwXGPJZr6FfuvwMicMNw&s",
+        "releaseDate": "1991-11-22"
+    },
+    {
+        "_id": 5,
+        "name": "Cendrillon",
+        "films": [
+            "Cendrillon",
+            "Cendrillon 2",
+            "Cendrillon 3"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://cinefilms-planet.fr/wp-content/uploads/2014/12/image-cendrillon-personnage-04.jpg",
+        "releaseDate": "1950-02-15"
+    },
+    {
+        "_id": 6,
+        "name": "Blanche-Neige",
+        "films": [
+            "Blanche-Neige et les Sept Nains"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://images.rtl.fr/~c/770v513/rtl/www/1299146-blanche-neige.jpg",
+        "releaseDate": "1937-12-21"
+    },
+    {
+        "_id": 7,
+        "name": "Mulan",
+        "films": [
+            "Mulan",
+            "Mulan 2"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://www.ed92.org/wp-content/uploads/2021/03/media.jpg",
+        "releaseDate": "1998-06-19"
+    },
+    {
+        "_id": 8,
+        "name": "Pocahontas",
+        "films": [
+            "Pocahontas",
+            "Pocahontas 2 : Un monde nouveau"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/ct_princess_pocahontas_3497_d244845e.jpeg?region=0%2C0%2C800%2C800",
+        "releaseDate": "1995-06-23"
+    },
+    {
+        "_id": 9,
+        "name": "Jasmine",
+        "films": [
+            "Aladdin",
+            "Le Retour de Jafar",
+            "Aladdin et le Roi des Voleurs"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://img-3.journaldesfemmes.fr/2j5Umc2IEyBn4HBIzEPNbp2zvE8=/1240x/smart/a6e6e70c57114131850e7c0dba119a48/ccmcms-jdf/39459619.jpg",
+        "releaseDate": "1992-11-25"
+    },
+    {
+        "_id": 10,
+        "name": "Tiana",
+        "films": [
+            "La Princesse et la Grenouille"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24643791/Tiana.jpeg?quality=90&strip=all&crop=25.892156862745%2C0%2C48.21568627451%2C100&w=2400",
+        "releaseDate": "2009-12-11"
+    },
+    {
+        "_id": 11,
+        "name": "Elsa",
+        "films": [
+            "La Reine des Neiges",
+            "La Reine des Neiges 2"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://images.rtl.fr/~c/770v513/rtl/www/1217408-elsa-heroine-de-la-reine-des-neiges.jpg",
+        "releaseDate": "2013-11-27"
+    },
+    {
+        "_id": 12,
+        "name": "Anna",
+        "films": [
+            "La Reine des Neiges",
+            "La Reine des Neiges 2"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://www.chroniquedisney.fr/imgPerso/princesse/2013-anna-01.jpg",
+        "releaseDate": "2013-11-27"
+    },
+    {
+        "_id": 13,
+        "name": "Vaiana",
+        "films": [
+            "Vaiana"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrvny39vLd8cMVQh0N5YMYt0ASgbEi1w3fuA&s",
+        "releaseDate": "2016-11-23"
+    },
+    {
+        "_id": 14,
+        "name": "Buzz l'Éclair",
+        "films": [
+            "Toy Story",
+            "Toy Story 2",
+            "Toy Story 3",
+            "Toy Story 4"
+        ],
+        "production": "Pixar",
+        "imageUrl": "https://www.chroniquedisney.fr/imgPerso/heros/1995-buzz-01.jpg",
+        "releaseDate": "1995-11-22"
+    },
+    {
+        "_id": 15,
+        "name": "Woody",
+        "films": [
+            "Toy Story",
+            "Toy Story 2",
+            "Toy Story 3",
+            "Toy Story 4"
+        ],
+        "production": "Pixar",
+        "imageUrl": "https://media.vandalsports.com/i/640x360/7-2022/202277162619_1.jpg",
+        "releaseDate": "1995-11-22"
+    },
+    {
+        "_id": 16,
+        "name": "Nemo",
+        "films": [
+            "Le Monde de Nemo",
+            "Le Monde de Dory"
+        ],
+        "production": "Pixar",
+        "imageUrl": "https://cache.cosmopolitan.fr/data/photo/w1000_c17/4n/nemo-marin-le-monde-de-nemo.jpg",
+        "releaseDate": "2003-05-30"
+    },
+    {
+        "_id": 17,
+        "name": "Dory",
+        "films": [
+            "Le Monde de Nemo",
+            "Le Monde de Dory"
+        ],
+        "production": "Pixar",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHaIYZXboFdYrA5_QSDD2kaht9wuKmANIkTQ&s",
+        "releaseDate": "2003-05-30"
+    },
+    {
+        "_id": 18,
+        "name": "Mike Wazowski",
+        "films": [
+            "Monstres et Cie",
+            "Monstres Academy"
+        ],
+        "production": "Pixar",
+        "imageUrl": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6897b16fb5b0045c1d635634a88530df.jpg",
+        "releaseDate": "2001-11-02"
+    },
+    {
+        "_id": 19,
+        "name": "Sully",
+        "films": [
+            "Monstres et Cie",
+            "Monstres Academy"
+        ],
+        "production": "Pixar",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUjelQMbud-eGpsjEsjCHi-6IcXPv_T1uAsw&s",
+        "releaseDate": "2001-11-02"
+    },
+    {
+        "_id": 20,
+        "name": "Jack Sparrow",
+        "films": [
+            "Pirates des Caraïbes : La Malédiction du Black Pearl",
+            "Pirates des Caraïbes 2 à 5"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://i.pinimg.com/736x/48/45/6d/48456dc4d685a7bd4f3a8b35fc403a6d.jpg",
+        "releaseDate": "2003-07-09"
+    },
+    {
+        "_id": 21,
+        "name": "Simba",
+        "films": [
+            "Le Roi Lion",
+            "Le Roi Lion 2",
+            "Le Roi Lion 3"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-oyLc6MBTgb0FHv1BtPW7vZU896ANtodiLQ&s",
+        "releaseDate": "1994-06-15"
+    },
+    {
+        "_id": 22,
+        "name": "Mickey Mouse",
+        "films": [
+            "Steamboat Willie",
+            "Fantasia",
+            "Mickey, le Club des Méchants"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://i.scdn.co/image/ab676161000051747ac3385e1033229ea480dc9d",
+        "releaseDate": "1928-11-18"
+    },
+    {
+        "_id": 23,
+        "name": "Donald Duck",
+        "films": [
+            "Donald et le Gorille",
+            "Donald au Pays des Mathémagiques"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://www.amesauvage.com/17771-large_default/tableau-donald-duck-pop-art.jpg",
+        "releaseDate": "1934-06-09"
+    },
+    {
+        "_id": 24,
+        "name": "Pluto",
+        "films": [
+            "Pluto's Judgement Day",
+            "Pluto's Party"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://www.journaldemickey.com/wp-content/uploads/2021/08/icone-pluto.jpg",
+        "releaseDate": "1930-09-05"
+    },
+    {
+        "_id": 25,
+        "name": "Stitch",
+        "films": [
+            "Lilo et Stitch",
+            "Lilo et Stitch 2"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://images.lesindesradios.fr/fit-in/1100x2000/filters:format(webp)/radios/tropiquesfm/importrk/news/original/5e3d60727d9904.75142479.jpg",
+        "releaseDate": "2002-06-21"
+    },
+    {
+        "_id": 26,
+        "name": "Peter Pan",
+        "films": [
+            "Peter Pan",
+            "Peter Pan 2 : Retour au Pays Imaginaire"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://cdn-images.dzcdn.net/images/artist/300accf80ca7870cb4f33151650e8679/1900x1900-000000-80-0-0.jpg",
+        "releaseDate": "1953-02-05"
+    },
+    {
+        "_id": 27,
+        "name": "Winnie l'Ourson",
+        "films": [
+            "Winnie l'Ourson",
+            "Winnie l'Ourson 2"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://static.cnews.fr/sites/default/files/winnie_lourson_0.png",
+        "releaseDate": "1977-03-11"
+    },
+    {
+        "_id": 28,
+        "name": "Aladdin",
+        "films": [
+            "Aladdin",
+            "Le Retour de Jafar",
+            "Aladdin et le Roi des Voleurs"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://www.ed92.org/wp-content/uploads/2022/02/aladdin-film-1024x559.png",
+        "releaseDate": "1992-11-25"
+    },
+    {
+        "_id": 29,
+        "name": "Hercule",
+        "films": [
+            "Hercule"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://media.vogue.fr/photos/5eb14104d2efb0a42c0b49df/2:3/w_2560%2Cc_limit/hercule.jpg",
+        "releaseDate": "1997-06-27"
+    },
+    {
+        "_id": 30,
+        "name": "Tarzan",
+        "films": [
+            "Tarzan",
+            "Tarzan 2"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/h_tarzan_19875_mobile_ticketnumber_19deb65f.jpeg?region=0,0,640,480",
+        "releaseDate": "1999-06-18"
+    },
+    {
+        "_id": 31,
+        "name": "Kuzco",
+        "films": [
+            "Kuzco, l'Empereur Mégalo"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://www.chroniquedisney.fr/imgPerso/heros/2000-kuzco-01.jpg",
+        "releaseDate": "2000-12-15"
+    },
+    {
+        "_id": 32,
+        "name": "Remy",
+        "films": [
+            "Ratatouille"
+        ],
+        "production": "Pixar",
+        "imageUrl": "https://www.chroniquedisney.fr/imgPerso/heros/2007-remy-01.jpg",
+        "releaseDate": "2007-06-29"
+    },
+    {
+        "_id": 33,
+        "name": "Wall-E",
+        "films": [
+            "Wall-E"
+        ],
+        "production": "Pixar",
+        "imageUrl": "https://www.cinematheque.qc.ca/workspace/uploads/projections/wall-e-ep-disney-fr-1718136924.jpg",
+        "releaseDate": "2008-06-27"
+    },
+    {
+        "_id": 34,
+        "name": "Carl Fredricksen",
+        "films": [
+            "Là-haut"
+        ],
+        "production": "Pixar",
+        "imageUrl": "https://images.bfmtv.com/qSJT4bvMD7hi5EvO-pT0lLRLycg=/0x12:544x318/640x0/images/Pixar-1607683.jpg",
+        "releaseDate": "2009-05-29"
+    },
+    {
+        "_id": 35,
+        "name": "Joy",
+        "films": [
+            "Vice-Versa"
+        ],
+        "production": "Pixar",
+        "imageUrl": "https://preview.redd.it/alright-inside-out-fans-what-do-yall-love-about-joy-aside-v0-t5r2f2taw5sd1.jpg?width=640&crop=smart&auto=webp&s=0e26e5f913138f3e5b293c0115eba1065a916d54",
+        "releaseDate": "2015-06-19"
+    },
+    {
+        "_id": 36,
+        "name": "Sadness",
+        "films": [
+            "Vice-Versa"
+        ],
+        "production": "Pixar",
+        "imageUrl": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_1200x1200/public/field_blog_entry_images/2023-09/Sadness.jpeg.jpg?itok=dhlDiER3",
+        "releaseDate": "2015-06-19"
+    },
+    {
+        "_id": 37,
+        "name": "Miguel",
+        "films": [
+            "Coco"
+        ],
+        "production": "Pixar",
+        "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/eu_coco_7things_hero_m_ce02958d.jpeg?region=0,0,750,619",
+        "releaseDate": "2017-11-22"
+    },
+    {
+        "_id": 38,
+        "name": "Hector",
+        "films": [
+            "Coco"
+        ],
+        "production": "Pixar",
+        "imageUrl": "https://figurinepop.com/public/2018/03/hector1_2.jpg",
+        "releaseDate": "2017-11-22"
+    },
+    {
+        "_id": 39,
+        "name": "Forky",
+        "films": [
+            "Toy Story 4"
+        ],
+        "production": "Pixar",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5a4eb010268b9628da574f9c/1561558091429-Y0R43F7P8U8C1I5GEXT3/emtoy-story-4ems-forky-is-2200087.jpg",
+        "releaseDate": "2019-06-21"
+    },
+    {
+        "_id": 40,
+        "name": "Flash McQueen",
+        "films": [
+            "Cars",
+            "Cars 2",
+            "Cars 3"
+        ],
+        "production": "Pixar",
+        "imageUrl": "https://abcmoteur.fr/wp-content/uploads/2023/08/Flash-McQueen-Cars-1.jpeg",
+        "releaseDate": "2006-06-09"
+    },
+    {
+        "_id": 41,
+        "name": "Martin",
+        "films": [
+            "Cars",
+            "Cars 2",
+            "Cars 3"
+        ],
+        "production": "Pixar",
+        "imageUrl": "https://www.programme-tv.net/imgre/fit/~2~collection~9675036d24522d46.jpg/630x355/quality/80/cars-toon.jpg",
+        "releaseDate": "2006-06-09"
+    },
+    {
+        "_id": 43,
+        "name": "Rey",
+        "films": [
+            "Star Wars : Le Réveil de la Force",
+            "Star Wars : Les Derniers Jedi",
+            "Star Wars : L'Ascension de Skywalker"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://media.anakinworld.com/uploads/entries/original/rey-18930.jpg",
+        "releaseDate": "2015-12-18"
+    },
+    {
+        "_id": 44,
+        "name": "Kylo Ren",
+        "films": [
+            "Star Wars : Le Réveil de la Force",
+            "Star Wars : Les Derniers Jedi",
+            "Star Wars : L'Ascension de Skywalker"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/kylo-ren-main-tros-a_6d77fd1e.jpeg?region=160%2C0%2C960%2C720",
+        "releaseDate": "2015-12-18"
+    },
+    {
+        "_id": 45,
+        "name": "Baymax",
+        "films": [
+            "Les Nouveaux Héros"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrUmLwP8eeQzrizRiVc3tvQqjGPLyK6Y9wPQ&s",
+        "releaseDate": "2014-11-07"
+    },
+    {
+        "_id": 46,
+        "name": "Hiro Hamada",
+        "films": [
+            "Les Nouveaux Héros"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://i.pinimg.com/564x/84/5d/b6/845db6c6a76329e30d44593d34fd9ed8.jpg",
+        "releaseDate": "2014-11-07"
+    },
+    {
+        "_id": 47,
+        "name": "Vanellope von Schweetz",
+        "films": [
+            "Les Mondes de Ralph",
+            "Ralph 2.0"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/09/Vanellope-Von-Schweetz-In-Ralph-Breaks-The-Internet.jpg",
+        "releaseDate": "2012-11-02"
+    },
+    {
+        "_id": 48,
+        "name": "Ralph",
+        "films": [
+            "Les Mondes de Ralph",
+            "Ralph 2.0"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/au_homepage_ralph_hero_m_91af45d3.jpeg?region=0,0,750,688",
+        "releaseDate": "2012-11-02"
+    },
+    {
+        "_id": 49,
+        "name": "Nick Wilde",
+        "films": [
+            "Zootopie"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://preview.redd.it/d4pltc8h82ld1.jpeg?auto=webp&s=f3b6adcd3315e483099a114cac52bdd905c05625",
+        "releaseDate": "2016-03-04"
+    },
+    {
+        "_id": 50,
+        "name": "Judy Hopps",
+        "films": [
+            "Zootopie"
+        ],
+        "production": "Disney",
+        "imageUrl": "https://www.chroniquedisney.fr/imgPerso/heroines/2016-judyhopps-01.jpg",
+        "releaseDate": "2016-03-04"
+    }
+]
