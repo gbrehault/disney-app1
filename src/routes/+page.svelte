@@ -35,7 +35,12 @@
 		background-size: cover;
 	}
 	.containeur {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
 		height: 60vh;
+		height: 100vh;
 	}
 	h1 {
 		margin-top: 50px;

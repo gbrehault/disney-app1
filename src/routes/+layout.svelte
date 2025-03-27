@@ -10,14 +10,18 @@
 			</a>
 		</div>
 		<div class="menu">
-			<a href="" class="m">
+			<a href="/quiz" class="m">
 				<p>Le quiz</p>
 			</a>
 			<a href="/liste" class="m">
 				<p>Liste des personnages</p>
 			</a>
+			<!-- <a href="/profil" class="m">
+				<p>Profil</p>
+			</a> -->
+			<div class="point"></div>
 		</div>
-		<a href="" class="quiz">
+		<a href="/quiz" class="quiz">
 			<button>Lancer le quiz</button>
 		</a>
 	</div>
@@ -48,7 +52,8 @@
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		gap: 2rem;
+		gap: 1rem;
+		padding: 0;
 	}
 	.m {
 		font-size: 16px;
@@ -66,6 +71,7 @@
 		margin-top: 20px;
 		position: sticky;
 		top: 20px;
+		margin-top: -5rem;
 	}
 
 	/* CSS FOOTER  */
@@ -74,7 +80,7 @@
 		position: relative;
 		padding: 0;
 		margin: 0;
-		height: 10rem;
+		height: 8rem;
 		display: flex;
 		justify-content: center;
 		align-items: center;
@@ -106,6 +112,7 @@
 		z-index: 1; /* Assure que le texte reste visible au-dessus de l'image */
 	}
 	.pied {
+		height: 3rem;
 		display: flex;
 		justify-content: center;
 		align-items: center;
@@ -124,7 +131,7 @@
 		justify-content: space-between;
 		background-color: rgb(1, 18, 41);
 		width: 80%;
-		height: 5rem;
+		height: 4rem;
 		padding-right: 40px;
 		padding-left: 40px;
 		padding-top: 10px;

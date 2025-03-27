@@ -37,6 +37,7 @@
 		font-family: 'New Walt Disney Font', sans-serif;
 		text-align: center;
 		font-size: 5rem;
+		margin-top: 10rem;
 	}
 
 	h5 {
@@ -67,6 +68,7 @@
 	img {
 		width: 15rem;
 		height: 15rem;
+		object-fit: cover;
 		border-radius: 20px;
 	}
 

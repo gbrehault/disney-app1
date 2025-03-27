@@ -1,5 +1,6 @@
 import { read } from "$lib/io";
-export async function load() {
+export async function load({ depends }) {
+    depends('quiz:all')
     // RETORUNE L'OBJET DISNEY EN EXPORT 
     const disney = await generateCharactersArray();
     console.log('load', disney);

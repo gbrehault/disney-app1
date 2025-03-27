@@ -34,6 +34,7 @@
 	img {
 		width: 15rem;
 		height: 15rem;
+		object-fit: cover;
 		border-radius: 25px;
 	}
 </style>
